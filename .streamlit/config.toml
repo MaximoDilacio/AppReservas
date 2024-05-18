@@ -1,0 +1,13 @@
+[theme.light]
+base="light"
+primaryColor="#222146"
+secondaryBackgroundColor="#6480ad"
+textColor="#1e2937"
+
+[theme.dark]
+base="dark"
+primaryColor="#201f41"
+backgroundColor="#2e4369"
+secondaryBackgroundColor="#49548e"
+
+
